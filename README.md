@@ -6,7 +6,8 @@
 The objective of this project was to analyze bike share data for the years 2021 and 2022. The analysis aimed to identify trends in rider activity and sales over these two years. This helped in understanding usage patterns, seasonality, and the overall performance.
 
 
-<img width="706" alt="image" src="https://github.com/user-attachments/assets/5d59bc55-05b4-4f64-bc58-001150a95727">
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/d9e407eb-a9ce-4137-a567-f118c6ca6321">
+
 
 
 ### Data Sources
